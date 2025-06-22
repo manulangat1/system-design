@@ -1,0 +1,3 @@
+- Connectionless protocol.
+- Faster but no delivery guarantees.
+- No retransmission of lost data.

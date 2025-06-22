@@ -1,4 +1,4 @@
-    A proxy is an intermediary between a client and another server.
+A proxy is an intermediary between a client and another server.
 
 Helps with security, caching , traffic control and anonymity.
 
