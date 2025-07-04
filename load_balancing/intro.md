@@ -2,12 +2,12 @@
 
 1. High availability- ensures that the system is availbale even under high uptime.
 2. Traffic distribution. - distributes traffic through out multiple servers.
-3. Prevents overload.
+3. Prevents overload of a single server.
 4. Improved performance -
 5. Handles failures gracefully.
 6. Supports scalability.
 
-**Types of Load balancing.** 
+**Types of Load balancing.**
 
 1. Based on type of layer on OSI model.
    1.1 Layer 4 ( Transport layer. ) - make routing decision based on the network level data
@@ -17,7 +17,7 @@
    2.2 Software load balancers
    2.3 Cloud based load balancers e.g AWS ALB.
 
-**Load Balancing strategies.** 
+**Load Balancing strategies.**
 
 1. Static load balancing.
    Distributes traffic based on a pre configured set of rules. It is used mainly on where the traffic is predictable.
