@@ -1,4 +1,4 @@
-CACHING. 
+CACHING.
 
 ---
 
@@ -17,7 +17,7 @@ Types of Caching.
 3. CDN caching
 4. Database caching
 
-Caching strategies. 
+Caching strategies.
 
 ---
 
@@ -26,11 +26,11 @@ Caching strategies.
 3. Lazy loading. ( Cache aside) - cache is populated by demand.
 4. Explicit / manual caching - dev decides when to cache or evict.
 
-Cache eviction policies. 
+Cache eviction policies.
 
 ---
 
-1. Least recently used.
-2. Least frequently used
+1. Least recently used. - remove the least recently accessed item.
+2. Least frequently used - remove the least frequently used ite,.
 3. FiFO - first in first out.
 4. TTL - set explicit time for the cache to live.
